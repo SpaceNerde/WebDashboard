@@ -1,0 +1,5 @@
+name: mc_server_side
+version: '${version}'
+main: de.spacenerde.mc_server_side.Mc_server_side
+api-version: '1.16'
+authors: [Space Nerd]
